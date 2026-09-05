@@ -2,7 +2,7 @@
 An interactive Power BI dashboard designed to analyze sales performance, volume distribution, transaction methods, and customer feedback trends across major Indian cities.
 ---
 ## 📊 Dashboard Preview
-![Motorola Sales Dashboard](images/dashboard_preview.png)
+![Motorola Sales Dashboard](dashboard_preview.png)
 ---
 ## 🔑 Key Insights & Metrics
 * **Total Revenue Generated:** $769M across 4K transactions.
