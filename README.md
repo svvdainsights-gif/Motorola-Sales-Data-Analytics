@@ -25,4 +25,4 @@ An interactive Power BI dashboard designed to analyze sales performance, volume 
 ## 🚀 How to View the Project
 1. Download or clone this repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/motorola-sales-data-analytics.git](https://github.com/YOUR-USERNAME/motorola-sales-data-analytics.git)
+git clone https://github.com/svvdainsights-gif/Motorola-Sales-Data-Analytics.git
